@@ -1,2 +1,2 @@
 # CineHub
-A WebApp that recommends movie based on the search results.
+A WebApp that recommend movies based on the search results.
